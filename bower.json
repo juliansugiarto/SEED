@@ -1,0 +1,25 @@
+{
+  "name": "protanmas",
+  "description": "PROTANMAS PERUMAHAN",
+  "main": "index.js",
+  "authors": [
+    "Julian Sugiarto <juliansugiarto12@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/juliansugiarto/PROTANMAS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/src/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "smooth-scroll": "^1.0.1",
+    "components-font-awesome": "^4.7.0",
+    "animate.css": "^3.5.2",
+    "waypoints": "^4.0.1"
+  }
+}
